@@ -1,3 +1,4 @@
+//qq
 $(document).ready(function () {
    var floor = 02;
    var floorPath = $('.home-image path')
